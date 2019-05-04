@@ -1,0 +1,5 @@
+com.coverageplugin.main.api
+com.coverageplugin.main.impl
+com.coverageplugin.main.pojo
+com.coverageplugin.main.service
+com.coverageplugin.main.util
